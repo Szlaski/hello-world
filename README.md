@@ -1,3 +1,3 @@
 # hello-world
 first try
-my firt commit______
+my first commit omg
